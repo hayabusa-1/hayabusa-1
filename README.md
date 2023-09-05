@@ -7,8 +7,8 @@
 ### Contact Information
 
 - **Email**: johndoe@example.com
-- **LinkedIn**: [JaneDoe](https://www.linkedin.com/in/johndoe/)
-- **GitHub**: [JaneDoeGitHub](https://github.com/JohnDoeGitHub)
+- **LinkedIn**: [JohnDoe](https://www.linkedin.com/in/johndoe/)
+- **GitHub**: [JohnDoeGitHub](https://github.com/JohnDoeGitHub)
 - **Location**: San Francisco, CA
 
 ---
