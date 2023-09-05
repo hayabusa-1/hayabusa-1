@@ -6,9 +6,9 @@
 
 ### Contact Information
 
-- **Email**: janedoe@example.com
-- **LinkedIn**: [JaneDoe](https://www.linkedin.com/in/janedoe/)
-- **GitHub**: [JaneDoeGitHub](https://github.com/JaneDoeGitHub)
+- **Email**: johndoe@example.com
+- **LinkedIn**: [JaneDoe](https://www.linkedin.com/in/johndoe/)
+- **GitHub**: [JaneDoeGitHub](https://github.com/JohnDoeGitHub)
 - **Location**: San Francisco, CA
 
 ---
